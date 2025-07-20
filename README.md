@@ -1,2 +1,2 @@
 # weather_app
-[FINISHED] simple weather app
+Simple weather app
